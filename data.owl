@@ -1,0 +1,539 @@
+<rdf:RDF
+      xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+      xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+      xmlns:foaf="http://xmlns.com/foaf/0.1/"
+      xmlns:admin="http://webns.net/mvcb/">
+<foaf:PersonalProfileDocument rdf:about="">
+  <foaf:maker rdf:resource="#me"/>
+  <foaf:primaryTopic rdf:resource="#me"/>
+  <admin:generatorAgent rdf:resource="http://www.ldodds.com/foaf/foaf-a-matic"/>
+  <admin:errorReportsTo rdf:resource="mailto:leigh@ldodds.com"/>
+</foaf:PersonalProfileDocument>
+
+<foaf:Agreeableness rdf:ID="me">
+	<foaf:knows>
+		<foaf:agreeableness>
+			<foaf:ag>agreeableness</foaf:ag>
+			<foaf:ag>affability</foaf:ag>
+			<foaf:ag>agreeability</foaf:ag>
+			<foaf:ag>amiableness</foaf:ag>
+			<foaf:ag>bonhomie</foaf:ag>
+			<foaf:ag>congeniality</foaf:ag>
+			<foaf:ag>cordiality</foaf:ag>
+			<foaf:ag>friendliness</foaf:ag>
+			<foaf:ag>geniality</foaf:ag>
+			<foaf:ag>good natured</foaf:ag>
+			<foaf:ag>graciousness</foaf:ag>
+			<foaf:ag>pleasantness</foaf:ag>
+			<foaf:ag>sociability</foaf:ag>
+			<foaf:ag>sociableness</foaf:ag>
+			<foaf:ag>cordial</foaf:ag>
+			<foaf:ag>cordialness</foaf:ag>
+			<foaf:ag>genial</foaf:ag>
+			<foaf:ag>genialness</foaf:ag>
+		</foaf:agreeableness>
+	</foaf:knows>
+</foaf:Agreeableness>
+
+<foaf:Conscientiousness rdf:ID="me">
+	<foaf:knows>
+		<foaf:conscientiousness>
+			<foaf:cc>conscientiousness</foaf:cc>
+			<foaf:cc>dutifulness</foaf:cc>
+			<foaf:cc>dutiful</foaf:cc>
+			<foaf:cc>exactitude</foaf:cc>
+			<foaf:cc>faithful</foaf:cc>
+			<foaf:cc>faithfulness</foaf:cc>
+			<foaf:cc>honesty</foaf:cc>
+			<foaf:cc>incorruptible</foaf:cc>
+			<foaf:cc>incorruptibility</foaf:cc>
+			<foaf:cc>mindfulness</foaf:cc>
+			<foaf:cc>punctilious</foaf:cc>
+			<foaf:cc>punctiliousness</foaf:cc>
+			<foaf:cc>steadfastnes</foaf:cc>
+			<foaf:cc>uprightness</foaf:cc>
+			<foaf:cc>upright</foaf:cc>
+			<foaf:cc>veracity</foaf:cc>
+		</foaf:conscientiousness>
+	</foaf:knows>
+</foaf:Conscientiousness>
+
+<foaf:Openness rdf:ID="me">
+	<foaf:knows>
+		<foaf:openness>
+			<foaf:op>acceptance</foaf:op>
+			<foaf:op>broad-minded</foaf:op>
+			<foaf:op>impartiality</foaf:op>
+			<foaf:op>interest</foaf:op>
+			<foaf:op>observance</foaf:op>
+			<foaf:op>receptivity</foaf:op>
+			<foaf:op>responsiveness</foaf:op>
+			<foaf:op>tolerance</foaf:op>
+			<foaf:op>understanding</foaf:op>
+		</foaf:openness>
+	</foaf:knows>
+</foaf:Openness>
+
+<foaf:Emotional_Stability_negative rdf:ID="me">
+	<foaf:knows>
+		<foaf:Angry>
+			<foaf:esn>angry</foaf:esn>
+			<foaf:esn>annoyed</foaf:esn>
+			<foaf:esn>Irritated</foaf:esn>
+			<foaf:esn>Mad</foaf:esn>
+			<foaf:esn>Irate</foaf:esn>
+			<foaf:esn>Angered</foaf:esn>
+			<foaf:esn>Outraged</foaf:esn>
+			<foaf:esn>Furious</foaf:esn>
+			<foaf:esn>Raging</foaf:esn>
+			<foaf:esn>Incensed</foaf:esn>
+			<foaf:esn>wrathful</foaf:esn>
+			<foaf:esn>annoyer</foaf:esn>
+			<foaf:esn>bitter</foaf:esn>
+			<foaf:esn>enraged</foaf:esn>
+			<foaf:esn>exasperate</foaf:esn>
+			<foaf:esn>exasperated</foaf:esn>
+			<foaf:esn>heated</foaf:esn>
+			<foaf:esn>impassioned</foaf:esn>
+			<foaf:esn>indignant</foaf:esn>
+			<foaf:esn>irritable</foaf:esn>
+			<foaf:esn>offender</foaf:esn>
+			<foaf:esn>offended</foaf:esn>
+			<foaf:esn>outrage</foaf:esn>
+			<foaf:esn>outraged</foaf:esn>
+			<foaf:esn>resentful</foaf:esn>
+			<foaf:esn>sullen</foaf:esn>
+			<foaf:esn>uptight</foaf:esn>
+			<foaf:esn>affront</foaf:esn>
+			<foaf:esn>affronted</foaf:esn>
+			<foaf:esn>antagonize</foaf:esn>
+			<foaf:esn>chafe</foaf:esn>
+			<foaf:esn>choleric</foaf:esn>
+			<foaf:esn>convulse</foaf:esn>
+			<foaf:esn>displeased</foaf:esn>
+			<foaf:esn>exacerbate</foaf:esn>
+			<foaf:esn>ferocious</foaf:esn>
+			<foaf:esn>fierce</foaf:esn>
+			<foaf:esn>fiery</foaf:esn>
+			<foaf:esn>hateful</foaf:esn>
+			<foaf:esn>huffy</foaf:esn>
+			<foaf:esn>ill tempered</foaf:esn>
+			<foaf:esn>incensed</foaf:esn>
+			<foaf:esn>inflame</foaf:esn>
+			<foaf:esn>infuriate</foaf:esn>
+			<foaf:esn>irascible</foaf:esn>
+			<foaf:esn>ire</foaf:esn>
+			<foaf:esn>ireful</foaf:esn>
+			<foaf:esn>madden</foaf:esn>
+			<foaf:esn>nettle</foaf:esn>
+			<foaf:esn>pique</foaf:esn>
+			<foaf:esn>provoke</foaf:esn>
+			<foaf:esn>rile</foaf:esn>
+			<foaf:esn>sore</foaf:esn>
+			<foaf:esn>splenetic</foaf:esn>
+			<foaf:esn>sulky</foaf:esn>
+			<foaf:esn>tumult</foaf:esn>
+			<foaf:esn>turbulent</foaf:esn>
+			<foaf:esn>vexed</foaf:esn>
+		</foaf:Angry>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Boring>
+			<foaf:esn>Boring</foaf:esn>
+			<foaf:esn>Dreary</foaf:esn>
+			<foaf:esn>Dry</foaf:esn>
+			<foaf:esn>Dull</foaf:esn>
+			<foaf:esn>humdrum</foaf:esn>
+			<foaf:esn>Irksome</foaf:esn>
+			<foaf:esn>Monotonous</foaf:esn>
+			<foaf:esn>Stuffy</foaf:esn>
+			<foaf:esn>Weariful</foaf:esn>
+			<foaf:esn>Wearily</foaf:esn>
+			<foaf:esn>Uninteresting</foaf:esn>	
+		</foaf:Boring>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Sad>
+			<foaf:esn>Sad</foaf:esn>
+			<foaf:esn>Unhappy</foaf:esn>
+			<foaf:esn>feel blue</foaf:esn>
+			<foaf:esn>depressed</foaf:esn>
+			<foaf:esn>feel low</foaf:esn>
+			<foaf:esn>depress</foaf:esn>
+			<foaf:esn>broken hearts</foaf:esn>
+			<foaf:esn>cast down</foaf:esn>
+			<foaf:esn>bad</foaf:esn>
+			<foaf:esn>melancholy</foaf:esn>
+			<foaf:esn>dejected</foaf:esn>
+			<foaf:esn>sorrowful</foaf:esn>
+			<foaf:esn>gloomy </foaf:esn>
+			<foaf:esn>Miserable</foaf:esn>
+			<foaf:esn>Mournful</foaf:esn>
+			<foaf:esn>Disappointed</foaf:esn>
+			<foaf:esn>Cheerless</foaf:esn>
+			
+			<foaf:esn>dismal</foaf:esn>
+			<foaf:esn>heartbroken</foaf:esn>
+			<foaf:esn>heart broken</foaf:esn>
+			<foaf:esn>somber</foaf:esn>
+			<foaf:esn>sorry</foaf:esn>
+			<foaf:esn>wistful</foaf:esn>
+			<foaf:esn>bereaved</foaf:esn>
+			<foaf:esn>despairing</foaf:esn>
+			<foaf:esn>despondent</foaf:esn>
+			<foaf:esn>disconsolate</foaf:esn>
+			<foaf:esn>distressed</foaf:esn>
+			<foaf:esn>doleful</foaf:esn>
+			<foaf:esn>down cast</foaf:esn>
+			<foaf:esn>forlorn</foaf:esn>
+			<foaf:esn>glum</foaf:esn>
+			<foaf:esn>grief</foaf:esn>
+			<foaf:esn>heartsick</foaf:esn>
+			<foaf:esn>hurt</foaf:esn>
+			<foaf:esn>languishing</foaf:esn>
+			<foaf:esn>morbid</foaf:esn>
+			<foaf:esn>morose</foaf:esn>
+			<foaf:esn>pensive</foaf:esn>
+			<foaf:esn>troubled</foaf:esn>
+			<foaf:esn>weep</foaf:esn>
+			<foaf:esn>woeful</foaf:esn>
+		</foaf:Sad>
+	</foaf:knows>
+</foaf:Emotional_Stability_negative>
+
+<foaf:Emotional_Stability_positive rdf:ID="me">
+	<foaf:knows>
+		<foaf:Happy>
+			<foaf:esp>Happy</foaf:esp>
+			<foaf:esp>joyful</foaf:esp>
+			<foaf:esp>wow</foaf:esp>
+			<foaf:esp>glad</foaf:esp>
+			<foaf:esp>delighted</foaf:esp>
+			<foaf:esp>Pleased</foaf:esp>
+			<foaf:esp>Cheery</foaf:esp>
+			<foaf:esp>Bland</foaf:esp>
+			<foaf:esp>Beautiful</foaf:esp>
+			<foaf:esp>Enchanted</foaf:esp>
+			<foaf:esp>Jolly</foaf:esp>
+			<foaf:esp>gleeful</foaf:esp>
+			<foaf:esp>mirthful</foaf:esp>
+			<foaf:esp>jubilant</foaf:esp>
+			<foaf:esp>content </foaf:esp>
+			<foaf:esp>elated</foaf:esp>
+			<foaf:esp>delighted</foaf:esp>
+			<foaf:esp>wonderful</foaf:esp>
+			<foaf:esp>joyous</foaf:esp>	
+			pessimistic
+		</foaf:Happy>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Love>
+			<foaf:esp>love</foaf:esp>
+			<foaf:esp>sweet</foaf:esp>
+			<foaf:esp>sweetheart</foaf:esp>
+			<foaf:esp>my love</foaf:esp>
+			<foaf:esp>hunny</foaf:esp>
+			<foaf:esp>cute</foaf:esp>
+			<foaf:esp>cuddly</foaf:esp>
+			<foaf:esp>Loving</foaf:esp>
+			<foaf:esp>lovely</foaf:esp>
+			<foaf:esp>loved</foaf:esp>
+			<foaf:esp>Lovable</foaf:esp>
+			<foaf:esp>Beloved</foaf:esp>
+			<foaf:esp>Confidante</foaf:esp>
+			<foaf:esp>Dearest</foaf:esp>
+			<foaf:esp>dream girl</foaf:esp>
+			<foaf:esp>dream guy</foaf:esp>
+			<foaf:esp>honey</foaf:esp>
+			<foaf:esp>crush</foaf:esp>
+			<foaf:esp>soul mate</foaf:esp>
+			<foaf:esp>hot</foaf:esp>
+			<foaf:esp>handsome</foaf:esp>
+			<foaf:esp>pretty</foaf:esp>
+			<foaf:esp>romantic</foaf:esp>
+			<foaf:esp>affair</foaf:esp>
+			<foaf:esp>worship</foaf:esp>
+			
+			
+		</foaf:Love>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Healthy >
+			<foaf:esp>healthy</foaf:esp>
+			<foaf:esp>Wholesome</foaf:esp>
+			<foaf:esp>Beneficial</foaf:esp>
+			<foaf:esp>salubrious</foaf:esp>
+		</foaf:Healthy >
+	</foaf:knows>
+</foaf:Emotional_Stability_positive>
+
+<foaf:Extraversion_positive rdf:ID="me">
+	<foaf:knows>
+		<foaf:Active>
+			<foaf:exp>Active</foaf:exp>
+			<foaf:exp>Gymnasium</foaf:exp>
+			<foaf:exp>Team</foaf:exp>
+			<foaf:exp>Set</foaf:exp>
+			<foaf:exp>Gang</foaf:exp>
+			<foaf:exp>Set</foaf:exp>
+		</foaf:Active>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Sport>
+			<foaf:exp>Sport</foaf:exp>
+			<foaf:exp>Cricket</foaf:exp>
+			<foaf:exp>Soccer</foaf:exp>
+			<foaf:exp>Football</foaf:exp>
+			<foaf:exp>Club</foaf:exp>
+			<foaf:exp>Catch</foaf:exp>
+			<foaf:exp>Bat</foaf:exp>
+			<foaf:exp>Ball</foaf:exp>
+			<foaf:exp>Medal</foaf:exp>
+			<foaf:exp>Out</foaf:exp>
+			<foaf:exp>Bicycle</foaf:exp>
+			<foaf:exp>Bike</foaf:exp>
+			<foaf:exp>Polo</foaf:exp>
+			<foaf:exp>Silver Medal</foaf:exp>
+			<foaf:exp>Gold Medal</foaf:exp>
+			<foaf:exp>hockey</foaf:exp>
+			<foaf:exp>judo</foaf:exp>
+			<foaf:exp>play</foaf:exp>
+			<foaf:exp>Olympic</foaf:exp>
+			<foaf:exp>Goal</foaf:exp>
+			<foaf:exp>table tennis</foaf:exp>
+			<foaf:exp>tennis</foaf:exp>
+			<foaf:exp>score</foaf:exp>
+			<foaf:exp>game</foaf:exp>
+			<foaf:exp>World Cup</foaf:exp>
+			<foaf:exp>Pool</foaf:exp>
+			<foaf:exp>Player</foaf:exp>
+			<foaf:exp>Golf</foaf:exp>
+			<foaf:exp>Athletics</foaf:exp>
+			<foaf:exp>Baller</foaf:exp>
+			<foaf:exp>Batsmen</foaf:exp>
+		</foaf:Sport>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Entertainment>
+			<foaf:exp>Entertainment</foaf:exp>
+			<foaf:exp>Music</foaf:exp>
+			<foaf:exp>Movie</foaf:exp>
+			<foaf:exp>Film</foaf:exp>
+			<foaf:exp>Film hall</foaf:exp>
+			<foaf:exp>Watching</foaf:exp>
+			<foaf:exp>Art</foaf:exp>
+			<foaf:exp>Dance</foaf:exp>
+			<foaf:exp>Dancing </foaf:exp>
+			<foaf:exp>Singing </foaf:exp>
+			<foaf:exp>sing</foaf:exp>
+			<foaf:exp>Song</foaf:exp>
+			<foaf:exp>Funky</foaf:exp>
+			<foaf:exp>Commode</foaf:exp>
+			<foaf:exp>Tragedy</foaf:exp>
+			<foaf:exp>Actress</foaf:exp>
+			<foaf:exp>Artist</foaf:exp>
+			<foaf:exp>Actor</foaf:exp>
+			<foaf:exp>Singer</foaf:exp>
+			<foaf:exp>director</foaf:exp>
+			<foaf:exp>opera</foaf:exp>
+			<foaf:exp>Theater</foaf:exp>
+			<foaf:exp>cinema</foaf:exp>
+			<foaf:exp>MP3</foaf:exp>
+			<foaf:exp>stage</foaf:exp>
+			<foaf:exp>drama</foaf:exp>
+			<foaf:exp>DVD</foaf:exp>
+			<foaf:exp>CD</foaf:exp>
+		</foaf:Entertainment>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Charity>
+			<foaf:exp>charity</foaf:exp>
+			<foaf:exp>help</foaf:exp>
+			<foaf:exp>fund</foaf:exp>
+			<foaf:exp>foundation</foaf:exp>
+			<foaf:exp>endowments</foaf:exp>
+			<foaf:exp>philanthropy</foaf:exp>
+			<foaf:exp>alms</foaf:exp>
+			<foaf:exp>alms-giving</foaf:exp>
+			<foaf:exp>alms giving</foaf:exp>
+			<foaf:exp>assistance</foaf:exp>
+			<foaf:exp>benefaction</foaf:exp>
+			<foaf:exp>beneficence</foaf:exp>
+			<foaf:exp>contribution</foaf:exp>
+			<foaf:exp>dole</foaf:exp>
+			<foaf:exp>largesse</foaf:exp>
+			<foaf:exp>offering</foaf:exp>
+			<foaf:exp>relief</foaf:exp>
+			<foaf:exp>gifting</foaf:exp>
+			<foaf:exp>helping hand</foaf:exp>
+		</foaf:Charity>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Politics>
+			<foaf:exp>Politics</foaf:exp>
+			<foaf:exp>Budget</foaf:exp>
+			<foaf:exp>Candidate</foaf:exp>
+			<foaf:exp>Law</foaf:exp>
+			<foaf:exp>Votes</foaf:exp>
+			<foaf:exp>Campaign</foaf:exp>
+			<foaf:exp>Polling station</foaf:exp>
+			<foaf:exp>Prime Minister</foaf:exp>
+			<foaf:exp>Deputy Prime Minister</foaf:exp>
+			<foaf:exp>MP</foaf:exp>
+			<foaf:exp>MEP</foaf:exp>
+			<foaf:exp>Elation</foaf:exp>
+			<foaf:exp>Government</foaf:exp>
+			<foaf:exp>party</foaf:exp>
+			<foaf:exp>president</foaf:exp>
+			<foaf:exp>politician</foaf:exp>
+			<foaf:exp>republic</foaf:exp>
+			<foaf:exp>electorate</foaf:exp>
+				
+		</foaf:Politics>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:Traveling>
+			<foaf:exp>Traveling</foaf:exp>
+			<foaf:exp>Tripe</foaf:exp>
+			<foaf:exp>Picnic</foaf:exp>
+			<foaf:exp>Journey</foaf:exp>
+			<foaf:exp>Visit</foaf:exp>
+			<foaf:exp>Tour</foaf:exp>
+			<foaf:exp>National park</foaf:exp>
+			<foaf:exp>Vacation</foaf:exp>
+			<foaf:exp>Camping</foaf:exp>
+			<foaf:exp>Hike</foaf:exp>
+		</foaf:Traveling>
+	</foaf:knows>
+</foaf:Extraversion_positive>
+
+<foaf:Extraversion_negative rdf:ID="me">
+	<foaf:knows>
+		<foaf:Inactive>
+			<foaf:exn>Inactive1</foaf:exn>
+			<foaf:exn>Inactive2</foaf:exn>
+			<foaf:exn>Inactive3</foaf:exn>
+			<foaf:exn>Inactive4</foaf:exn>
+		</foaf:Inactive>
+	</foaf:knows>
+</foaf:Extraversion_negative>
+
+<foaf:General_Knowledge_positive rdf:ID="me">
+	<foaf:knows>
+		<foaf:Books>
+			<foaf:ex>book</foaf:ex>
+			<foaf:ex>books</foaf:ex>
+			<foaf:ex>brochure</foaf:ex>
+			<foaf:ex>copy</foaf:ex>
+			<foaf:ex>dictionary</foaf:ex>
+			<foaf:ex>edition</foaf:ex>
+			<foaf:ex>essay</foaf:ex>
+			<foaf:ex>fiction</foaf:ex>
+			<foaf:ex>magazine</foaf:ex>
+			<foaf:ex>manual</foaf:ex>
+			<foaf:ex>novel</foaf:ex>
+			<foaf:ex>pamphlet</foaf:ex>
+			<foaf:ex>paper back</foaf:ex>
+			<foaf:ex>publication</foaf:ex>
+			<foaf:ex>text</foaf:ex>
+			<foaf:ex>textbook</foaf:ex>
+			<foaf:ex>tome</foaf:ex>
+			<foaf:ex>volume</foaf:ex>
+			<foaf:ex>atlas</foaf:ex>
+			<foaf:ex>codex</foaf:ex>
+			<foaf:ex>compendium</foaf:ex>
+			<foaf:ex>encyclopedia</foaf:ex>
+			<foaf:ex>folio</foaf:ex>
+			<foaf:ex>handbook</foaf:ex>
+			<foaf:ex>leaflet</foaf:ex>
+			<foaf:ex>lexicon</foaf:ex>
+			<foaf:ex>monograph</foaf:ex>
+			<foaf:ex>record</foaf:ex>
+			<foaf:ex>press</foaf:ex>
+			<foaf:ex>reader</foaf:ex>
+			<foaf:ex>paragraph </foaf:ex>
+		</foaf:Books>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:newspaper>
+			<foaf:ex>newspaper</foaf:ex>
+			<foaf:ex>magazine</foaf:ex>
+			<foaf:ex>journal</foaf:ex>
+			<foaf:ex>tabloid</foaf:ex>
+			<foaf:ex>gazette</foaf:ex>
+			<foaf:ex>sheet</foaf:ex>
+			<foaf:ex>journalist</foaf:ex>
+			<foaf:ex>pre-print</foaf:ex>
+			<foaf:ex>press</foaf:ex>
+		</foaf:newspaper>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:websites>
+			<foaf:ex>site</foaf:ex>
+			<foaf:ex>Web page</foaf:ex>
+			<foaf:ex>database</foaf:ex>
+			<foaf:ex>forum</foaf:ex>
+			<foaf:ex>network</foaf:ex>
+		</foaf:websites>
+	</foaf:knows>
+</foaf:General_Knowledge_positive>
+
+<foaf:Job_category rdf:ID="me">
+	<foaf:knows>
+		<foaf:DB_Adminsistrator>
+			<foaf:jc>DB_Adminsistrator1</foaf:jc>
+			<foaf:jc>DB_Adminsistrator2</foaf:jc>
+			<foaf:jc>DB_Adminsistrator3</foaf:jc>
+			<foaf:jc>DB_Adminsistrator4</foaf:jc>
+		</foaf:DB_Adminsistrator>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:DB_Adminsistrator>
+			<foaf:jc>DB_Adminsistrator1</foaf:jc>
+			<foaf:jc>DB_Adminsistrator2</foaf:jc>
+			<foaf:jc>DB_Adminsistrator3</foaf:jc>
+			<foaf:jc>DB_Adminsistrator4</foaf:jc>
+		</foaf:DB_Adminsistrator>
+	</foaf:knows>
+	<foaf:knows>
+		<foaf:DB_Adminsistrator>
+			<foaf:jc>DB_Adminsistrator1</foaf:jc>
+			<foaf:jc>DB_Adminsistrator2</foaf:jc>
+			<foaf:jc>DB_Adminsistrator3</foaf:jc>
+			<foaf:jc>DB_Adminsistrator4</foaf:jc>
+		</foaf:DB_Adminsistrator>
+	</foaf:knows>
+</foaf:Job_category>
+
+<foaf:Qualifications rdf:ID="me">
+	<foaf:knows>
+		<foaf:Education_Level>
+			<foaf:qf>culture</foaf:qf>
+			<foaf:qf>discipline</foaf:qf>
+			<foaf:qf>improvement</foaf:qf>
+			<foaf:qf>information</foaf:qf>
+			<foaf:qf>learning</foaf:qf>
+			<foaf:qf>literacy</foaf:qf>
+			<foaf:qf>scholarship</foaf:qf>
+			<foaf:qf>schooling</foaf:qf>
+			<foaf:qf>science</foaf:qf>
+			<foaf:qf>study</foaf:qf>
+			<foaf:qf>teaching</foaf:qf>
+			<foaf:qf>training</foaf:qf>
+			<foaf:qf>apprenticeship</foaf:qf>
+			<foaf:qf>catechism</foaf:qf>
+			<foaf:qf>coaching</foaf:qf>
+			<foaf:qf>edification</foaf:qf>
+			<foaf:qf>erudition</foaf:qf>
+			<foaf:qf>guidance</foaf:qf>
+			<foaf:qf>inculcate</foaf:qf>
+			<foaf:qf>learned</foaf:qf>
+			<foaf:qf>tuition</foaf:qf>
+			<foaf:qf>tutorial</foaf:qf>
+		</foaf:Education_Level>
+	</foaf:knows>
+</foaf:Qualifications>
+
+</rdf:RDF>
+
+spellerstar
