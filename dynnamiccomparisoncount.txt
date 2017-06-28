@@ -1,0 +1,11 @@
+agreeableness positive 0
+agreeableness negative 0
+extraversion positive 0
+extraversion negative 0
+openness positive 0
+openness negative 0
+emotional_stability positive 0
+emotional_stability negative 0
+conscientious positive 0
+conscientious negative 0
+education positive 0

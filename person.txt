@@ -1,12 +1,2 @@
-education positive 18
-openness positive 17
-education negative 4
-openness negative 1
-extraversion positive 20
-extraversion negative 1
-agreeableness negative 5
-agreeableness positive 16
-conscientious positive 25
-conscientious negative 2
-emotional_stability negative 2
-emotional_stability positive 22
+outonto [20]
+outonto1 [11, 3, 5]
